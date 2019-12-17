@@ -1,1 +1,1 @@
-# ore2task# ore2task-gas
+# ore2task-gas
